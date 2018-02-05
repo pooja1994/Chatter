@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "912758889584",
+    "firebase_url": "https://poonivchat.firebaseio.com",
+    "project_id": "poonivchat",
+    "storage_bucket": "poonivchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912758889584:android:31080d78f70db9bc",
+        "android_client_info": {
+          "package_name": "com.example.ravikiranj.poonivchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912758889584-72lp425jlvgfimuhk6c9kh2f7ju8md47.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ravikiranj.poonivchat",
+            "certificate_hash": "e9bacfa1b0802516fcb7b0b1a12989bee3ae0e35"
+          }
+        },
+        {
+          "client_id": "912758889584-95eqt6u4ll8jho0hul3md8eo3ia24ic4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlpyS6GBYg7T_7p4KWfTv6pXKT9cdWn8E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912758889584-95eqt6u4ll8jho0hul3md8eo3ia24ic4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
